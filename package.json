@@ -24,7 +24,7 @@
     "url": "https://github.com/VanDalkvist/lazy-sequence/issues"
   },
   "homepage": "https://github.com/VanDalkvist/lazy-sequence#readme",
-  "dependencies": {
+  "devDependencies": {
     "tape": "^4.9.1"
   }
 }
