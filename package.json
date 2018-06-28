@@ -1,0 +1,30 @@
+{
+  "name": "lazy-sequence",
+  "version": "1.0.0",
+  "description": "JS function which executes functions passed by arguments in sequence somewhen you want it.",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "node --experimental-modules test.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VanDalkvist/lazy-sequence.git"
+  },
+  "keywords": [
+    "js",
+    "micro",
+    "functional",
+    "functional-programming",
+    "functions",
+    "lazy"
+  ],
+  "author": "VanDalkvist",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VanDalkvist/lazy-sequence/issues"
+  },
+  "homepage": "https://github.com/VanDalkvist/lazy-sequence#readme",
+  "dependencies": {
+    "tape": "^4.9.1"
+  }
+}
